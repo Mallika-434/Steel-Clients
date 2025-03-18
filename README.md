@@ -1,5 +1,5 @@
 # Steel-Clients
-# Customer Behavior Analysis & Prediction in Steel Procurement
+## Customer Behavior Analysis & Prediction in Steel Procurement
 
 ## Overview
 The **Customer Behavior Analysis & Prediction in Steel Procurement** project focuses on analyzing client interactions within an online steel procurement system. Using machine learning and deep learning models, it predicts purchase trends and optimizes customer conversion strategies.
